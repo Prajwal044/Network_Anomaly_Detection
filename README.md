@@ -1,7 +1,7 @@
 # Network Anomaly Detection for DDoS Attacks
 
 ## Project Overview
-Machine Learning project for **Cisco Bangalore** fresher role, implementing network anomaly detection to identify DDoS attacks using unsupervised learning techniques.
+Implementing network anomaly detection to identify DDoS attacks using unsupervised learning techniques.
 
 ## Results
 | Model | Accuracy | Precision | Recall | F1-Score | ROC-AUC |
@@ -74,3 +74,4 @@ ML/Data Science Enthusiast
 - Tools: TensorFlow, Scikit-learn, Streamlit communities
 
 ---
+
