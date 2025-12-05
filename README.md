@@ -48,14 +48,6 @@ jupyter notebook anomaly_detection_model.ipynb
 ### Launch Dashboard
 streamlit run streamlit_app.py
 
-## Key Learnings for Cisco Interview
-
-### Why Relevant to Cisco?
-1. Network Security Focus: Aligns with Cisco Firepower, Umbrella, Talos threat intelligence
-2. Scalable ML: Handles 225K+ samples on 16GB RAM + RTX 3050 Ti
-3. Production-Ready: Includes preprocessing pipeline, model persistence, deployment dashboard
-4. Domain Knowledge: Uses network features relevant to SDN/security
-
 ### Technical Highlights
 - Feature Engineering: 78 network flow features (SYN/ACK flags, byte rates)
 - Class Imbalance Handling: Trained on normal traffic only
@@ -74,12 +66,7 @@ streamlit run streamlit_app.py
 **Prajwal S Tirthahalli**
 Computer Science & Design Student
 ML/Data Science Enthusiast
-Applying for Software Engineer (ML/AI) - Cisco Bangalore
 
-## Contact
-- GitHub: https://github.com/Prajwal044
-- LinkedIn: [Add your LinkedIn URL here]
-- Email: spraj@[your-domain.com]
 
 ## Acknowledgments
 - Dataset: Canadian Institute for Cybersecurity (CIC-IDS2017)
@@ -87,4 +74,3 @@ Applying for Software Engineer (ML/AI) - Cisco Bangalore
 - Tools: TensorFlow, Scikit-learn, Streamlit communities
 
 ---
-Developed as part of job application to Cisco Systems India (Bangalore)
